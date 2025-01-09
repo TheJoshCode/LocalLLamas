@@ -1,3 +1,4 @@
+![](https://i.imgur.com/iNRJ6Ey.png)
 # LocalLLamas - AI Chat with Voice Recognition and Text-to-Speech
 
 LocalLLamas is a desktop application that integrates AI chat functionality, voice recognition, and text-to-speech (TTS) capabilities. It allows users to interact with AI models through their voice, receive responses from the AI, and have those responses read aloud.
